@@ -54,3 +54,5 @@ npm run docs:build          # production build
 ## Deployment
 
 The site is auto-built and deployed to **GitHub Pages** from the `main` branch. A weekly scheduled workflow also refreshes star counts and pushes the update, which triggers a redeploy. Enable `Settings → Pages → Source: GitHub Actions` on the repo.
+
+The live site is at <https://amrangry.github.io/AI-WOW_REPOs/>.
