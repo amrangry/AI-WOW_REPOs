@@ -10,7 +10,6 @@ This repository keeps a living, searchable index of awesome repos: organized by 
 
 ## 📚 Browse the warehouse
 
-The site is built with [VitePress](https://vitepress.dev/) and deployed to GitHub Pages.
 
 | Category | What's inside |
 | --- | --- |
@@ -23,11 +22,22 @@ The site is built with [VitePress](https://vitepress.dev/) and deployed to GitHu
 
 ## 🚀 Quick start
 
+The site is built with [VitePress](https://vitepress.dev/) and deployed to GitHub Pages.
+
 ```bash
 npm install
 npm run docs:dev        # local preview at http://localhost:5173
 npm run docs:build      # production build
 npm run update:stars    # refresh star counts in category pages
+```
+
+>One caveat: any push to main still triggers the build+deploy workflow (harmless, site content unchanged). To skip that, use [skip ci] in the commit message or edit directly in the GitHub web editor.
+
+> Just include [skip ci] in your commit message:
+```bash
+git commit -m "docs: update README [skip ci]"
+git push
+GitHub sees it and skips all workflows for that push. Variants that also work: [ci skip], [skip actions], [actions skip], skip-workflow.
 ```
 
 ## 🧱 Entry format
