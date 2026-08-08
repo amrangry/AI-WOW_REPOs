@@ -24,6 +24,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about' },
+      { text: 'How to Add a Repo', link: '/how-to-add-new-repo' },
       {
         text: 'Categories',
         items: [
@@ -42,7 +43,8 @@ export default defineConfig({
           text: 'Warehouse',
           items: [
             { text: 'Home', link: '/' },
-            { text: 'About & How to Use', link: '/about' }
+            { text: 'About & How to Use', link: '/about' },
+            { text: 'How to Add a New Repo', link: '/how-to-add-new-repo' }
           ]
         },
         {
