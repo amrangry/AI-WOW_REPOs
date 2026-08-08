@@ -4,6 +4,10 @@
 
 This repository keeps a living, searchable index of awesome repos: organized by category, annotated with *why each repo matters*, and enriched with live star counts (refreshed automatically every week).
 
+## 🌐 Live site
+
+<https://amrangry.github.io/AI-WOW_REPOs/>
+
 ## 📚 Browse the warehouse
 
 The site is built with [VitePress](https://vitepress.dev/) and deployed to GitHub Pages.
