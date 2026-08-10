@@ -38,7 +38,7 @@ The legendary cross-platform media player and streaming engine (libVLC).
 
 **Tags:** `player` `libvlc` `c++`
 
-### [mpv](https://github.com/mpv-player/mpv) — ⭐ 36.4K
+### [mpv](https://github.com/mpv-player/mpv) — ⭐ 36.5K
 
 Minimalist, powerful, scriptable media player built on FFmpeg and libplacebo.
 

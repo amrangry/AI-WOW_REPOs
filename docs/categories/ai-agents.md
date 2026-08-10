@@ -22,7 +22,7 @@ OpenAI's official Python SDK for building agentic AI applications.
 
 **Tags:** `agents` `openai` `sdk`
 
-### [LangChain](https://github.com/langchain-ai/langchain) — ⭐ 143.7K
+### [LangChain](https://github.com/langchain-ai/langchain) — ⭐ 143.8K
 
 Framework for developing applications powered by language models.
 
@@ -30,7 +30,7 @@ Framework for developing applications powered by language models.
 
 **Tags:** `llm` `framework` `tools`
 
-### [CrewAI](https://github.com/crewAIInc/crewAI) — ⭐ 56.8K
+### [CrewAI](https://github.com/crewAIInc/crewAI) — ⭐ 56.9K
 
 Framework for orchestrating role-playing, autonomous AI agents.
 
@@ -46,7 +46,7 @@ Microsoft framework for building multi-agent AI applications.
 
 **Tags:** `agents` `multi-agent` `microsoft`
 
-### [OpenHands](https://github.com/All-Hands-AI/OpenHands) — ⭐ 83.5K
+### [OpenHands](https://github.com/All-Hands-AI/OpenHands) — ⭐ 83.6K
 
 AI software development agents platform (formerly OpenDevin).
 
@@ -82,7 +82,7 @@ The MCP specification and documentation itself.
 
 ## Local Inference
 
-### [Ollama](https://github.com/ollama/ollama) — ⭐ 178.1K
+### [Ollama](https://github.com/ollama/ollama) — ⭐ 178.2K
 
 Run large language models locally.
 

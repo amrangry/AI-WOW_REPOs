@@ -4,7 +4,7 @@ Non-linear editors, timeline engines, and editing tools — the direct reference
 
 ## CapCut Alternatives & Full Editors
 
-### [OpenCut](https://github.com/OpenCut-app/OpenCut) — ⭐ 81.7K
+### [OpenCut](https://github.com/OpenCut-app/OpenCut) — ⭐ 82K
 
 Open-source CapCut alternative for web, desktop, and mobile. Currently being rewritten from the ground up with a Rust core.
 
@@ -22,7 +22,7 @@ The previous version of OpenCut — still what runs at opencut.app.
 
 ## Programmatic & React Video
 
-### [Remotion](https://github.com/remotion-dev/remotion) — ⭐ 55.8K
+### [Remotion](https://github.com/remotion-dev/remotion) — ⭐ 56K
 
 Create videos programmatically using React and server-side rendering.
 
@@ -56,7 +56,7 @@ KDE's non-linear video editor based on the MLT framework and KDE Frameworks.
 
 **Tags:** `nle` `kde` `mlt` `timeline`
 
-### [OpenShot](https://github.com/openshot/openshot-qt) — ⭐ 6.1K
+### [OpenShot](https://github.com/openshot/openshot-qt) — ⭐ 6.2K
 
 Free, cross-platform video editor with a friendly Qt interface.
 
@@ -66,7 +66,7 @@ Free, cross-platform video editor with a friendly Qt interface.
 
 ## Fast & Lossless Editing
 
-### [LosslessCut](https://github.com/mifi/lossless-cut) — ⭐ 42.7K
+### [LosslessCut](https://github.com/mifi/lossless-cut) — ⭐ 42.8K
 
 Cross-platform tool for lossless trimming, cutting, and merging of video and audio.
 
@@ -76,7 +76,7 @@ Cross-platform tool for lossless trimming, cutting, and merging of video and aud
 
 ## Streaming & Recording
 
-### [OBS Studio](https://github.com/obsproject/obs-studio) — ⭐ 74.7K
+### [OBS Studio](https://github.com/obsproject/obs-studio) — ⭐ 74.8K
 
 Free and open-source software for video recording and live streaming.
 

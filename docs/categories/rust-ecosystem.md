@@ -30,7 +30,7 @@ Asynchronous runtime for Rust.
 
 ## Cross-Platform Desktop Shell
 
-### [Tauri](https://github.com/tauri-apps/tauri) — ⭐ 110K
+### [Tauri](https://github.com/tauri-apps/tauri) — ⭐ 110.1K
 
 Framework for building tiny, fast, secure cross-platform desktop apps with a web frontend and a Rust backend.
 
@@ -40,7 +40,7 @@ Framework for building tiny, fast, secure cross-platform desktop apps with a web
 
 ## Graphics & GPU
 
-### [wgpu](https://github.com/gfx-rs/wgpu) — ⭐ 17.7K
+### [wgpu](https://github.com/gfx-rs/wgpu) — ⭐ 17.8K
 
 Cross-platform, safe, native graphics library (WebGPU implementation in Rust).
 
@@ -64,7 +64,7 @@ Safe and rich Rust wrapper around the Vulkan graphics API.
 
 **Tags:** `graphics` `vulkan` `gpu`
 
-### [bevy](https://github.com/bevyengine/bevy) — ⭐ 47.5K
+### [bevy](https://github.com/bevyengine/bevy) — ⭐ 47.6K
 
 Refreshingly simple data-driven game engine built in Rust.
 
@@ -82,7 +82,7 @@ Fast and safe AV1 encoder written in pure Rust.
 
 **Tags:** `av1` `encoder` `video`
 
-### [Symphonia](https://github.com/pdeljanov/Symphonia) — ⭐ 3.3K
+### [Symphonia](https://github.com/pdeljanov/Symphonia) — ⭐ 3.4K
 
 Pure Rust audio decoding and media demuxing library (AAC, FLAC, MP4, MKV, OGG, WAV, WebM, and more).
 
