@@ -4,7 +4,7 @@ Codecs, demuxers, players, and transcoding stacks. This is the multimedia plumbi
 
 ## Core Processing
 
-### [FFmpeg](https://github.com/FFmpeg/FFmpeg) — ⭐ 63.1K
+### [FFmpeg](https://github.com/FFmpeg/FFmpeg) — ⭐ 63.4K
 
 The de-facto standard for decoding, encoding, muxing, and filtering audio and video.
 
@@ -38,7 +38,7 @@ The legendary cross-platform media player and streaming engine (libVLC).
 
 **Tags:** `player` `libvlc` `c++`
 
-### [mpv](https://github.com/mpv-player/mpv) — ⭐ 36.5K
+### [mpv](https://github.com/mpv-player/mpv) — ⭐ 36.6K
 
 Minimalist, powerful, scriptable media player built on FFmpeg and libplacebo.
 
@@ -46,7 +46,7 @@ Minimalist, powerful, scriptable media player built on FFmpeg and libplacebo.
 
 **Tags:** `player` `ffmpeg` `opengl` `libplacebo`
 
-### [video.js](https://github.com/videojs/video.js) — ⭐ 39.8K
+### [video.js](https://github.com/videojs/video.js) — ⭐ 39.9K
 
 Open-source HTML5 video player framework.
 
@@ -70,7 +70,7 @@ JavaScript media player library supporting DASH and HLS.
 
 **Tags:** `player` `dash` `hls` `drm`
 
-### [Vidstack](https://github.com/vidstack/vidstack) — ⭐ 3.6K
+### [Vidstack](https://github.com/vidstack/vidstack) — ⭐ 3.7K
 
 Modern media player components for the web (React, Svelte, Vue, and more).
 
