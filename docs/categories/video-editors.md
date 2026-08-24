@@ -4,7 +4,7 @@ Non-linear editors, timeline engines, and editing tools — the direct reference
 
 ## CapCut Alternatives & Full Editors
 
-### [OpenCut](https://github.com/OpenCut-app/OpenCut) — ⭐ 84K
+### [OpenCut](https://github.com/OpenCut-app/OpenCut) — ⭐ 85.6K
 
 Open-source CapCut alternative for web, desktop, and mobile. Currently being rewritten from the ground up with a Rust core.
 
@@ -12,7 +12,7 @@ Open-source CapCut alternative for web, desktop, and mobile. Currently being rew
 
 **Tags:** `editor` `rust` `video`
 
-### [OpenCut Classic](https://github.com/opencut-app/opencut-classic) — ⭐ 222
+### [OpenCut Classic](https://github.com/opencut-app/opencut-classic) — ⭐ 227
 
 The previous version of OpenCut — still what runs at opencut.app.
 
@@ -22,7 +22,7 @@ The previous version of OpenCut — still what runs at opencut.app.
 
 ## Programmatic & React Video
 
-### [Remotion](https://github.com/remotion-dev/remotion) — ⭐ 56.5K
+### [Remotion](https://github.com/remotion-dev/remotion) — ⭐ 57.2K
 
 Create videos programmatically using React and server-side rendering.
 
@@ -32,7 +32,7 @@ Create videos programmatically using React and server-side rendering.
 
 ## Desktop NLE Reference Implementations
 
-### [Shotcut](https://github.com/mltframework/shotcut) — ⭐ 14.9K
+### [Shotcut](https://github.com/mltframework/shotcut) — ⭐ 15K
 
 Free, open-source, cross-platform non-linear video editor built on the MLT framework.
 
@@ -66,7 +66,7 @@ Free, cross-platform video editor with a friendly Qt interface.
 
 ## Fast & Lossless Editing
 
-### [LosslessCut](https://github.com/mifi/lossless-cut) — ⭐ 43K
+### [LosslessCut](https://github.com/mifi/lossless-cut) — ⭐ 43.2K
 
 Cross-platform tool for lossless trimming, cutting, and merging of video and audio.
 
@@ -76,7 +76,7 @@ Cross-platform tool for lossless trimming, cutting, and merging of video and aud
 
 ## Streaming & Recording
 
-### [OBS Studio](https://github.com/obsproject/obs-studio) — ⭐ 75.1K
+### [OBS Studio](https://github.com/obsproject/obs-studio) — ⭐ 75.4K
 
 Free and open-source software for video recording and live streaming.
 

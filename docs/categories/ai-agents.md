@@ -4,7 +4,7 @@ Agent frameworks, MCP, local inference, and security tooling — the layer that 
 
 ## Agent Skill Security
 
-### [SkillSpector](https://github.com/NVIDIA/SkillSpector) — ⭐ 14.7K
+### [SkillSpector](https://github.com/NVIDIA/SkillSpector) — ⭐ 14.9K
 
 NVIDIA's security scanner for AI agent skills — detects vulnerabilities, malicious patterns, and security risks before installing agent skills.
 
@@ -14,7 +14,7 @@ NVIDIA's security scanner for AI agent skills — detects vulnerabilities, malic
 
 ## Agent Frameworks
 
-### [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) — ⭐ 28.7K
+### [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) — ⭐ 28.9K
 
 OpenAI's official Python SDK for building agentic AI applications.
 
@@ -22,7 +22,7 @@ OpenAI's official Python SDK for building agentic AI applications.
 
 **Tags:** `agents` `openai` `sdk`
 
-### [LangChain](https://github.com/langchain-ai/langchain) — ⭐ 144.4K
+### [LangChain](https://github.com/langchain-ai/langchain) — ⭐ 144.9K
 
 Framework for developing applications powered by language models.
 
@@ -30,7 +30,7 @@ Framework for developing applications powered by language models.
 
 **Tags:** `llm` `framework` `tools`
 
-### [CrewAI](https://github.com/crewAIInc/crewAI) — ⭐ 57.2K
+### [CrewAI](https://github.com/crewAIInc/crewAI) — ⭐ 57.5K
 
 Framework for orchestrating role-playing, autonomous AI agents.
 
@@ -38,7 +38,7 @@ Framework for orchestrating role-playing, autonomous AI agents.
 
 **Tags:** `agents` `orchestration` `python`
 
-### [AutoGen](https://github.com/microsoft/autogen) — ⭐ 60.5K
+### [AutoGen](https://github.com/microsoft/autogen) — ⭐ 60.6K
 
 Microsoft framework for building multi-agent AI applications.
 
@@ -46,7 +46,7 @@ Microsoft framework for building multi-agent AI applications.
 
 **Tags:** `agents` `multi-agent` `microsoft`
 
-### [OpenHands](https://github.com/All-Hands-AI/OpenHands) — ⭐ 84.2K
+### [OpenHands](https://github.com/All-Hands-AI/OpenHands) — ⭐ 84.9K
 
 AI software development agents platform (formerly OpenDevin).
 
@@ -54,7 +54,7 @@ AI software development agents platform (formerly OpenDevin).
 
 **Tags:** `agents` `autonomy` `sandbox`
 
-### [Aider](https://github.com/paul-gauthier/aider) — ⭐ 48.3K
+### [Aider](https://github.com/paul-gauthier/aider) — ⭐ 48.4K
 
 AI pair programming in your terminal.
 
@@ -64,7 +64,7 @@ AI pair programming in your terminal.
 
 ## MCP (Model Context Protocol)
 
-### [servers](https://github.com/modelcontextprotocol/servers) — ⭐ 89.6K
+### [servers](https://github.com/modelcontextprotocol/servers) — ⭐ 89.8K
 
 Reference servers for the Model Context Protocol (MCP) — the open standard connecting AI to tools and data.
 
@@ -82,7 +82,7 @@ The MCP specification and documentation itself.
 
 ## Local Inference
 
-### [Ollama](https://github.com/ollama/ollama) — ⭐ 178.7K
+### [Ollama](https://github.com/ollama/ollama) — ⭐ 179.3K
 
 Run large language models locally.
 
@@ -92,7 +92,7 @@ Run large language models locally.
 
 ## Evaluation & Testing
 
-### [Promptfoo](https://github.com/promptfoo/promptfoo) — ⭐ 24.3K
+### [Promptfoo](https://github.com/promptfoo/promptfoo) — ⭐ 24.5K
 
 Test and evaluate LLM apps, prompts, and agents with red-teaming and CI integration.
 
