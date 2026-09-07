@@ -4,7 +4,7 @@ Non-linear editors, timeline engines, and editing tools — the direct reference
 
 ## CapCut Alternatives & Full Editors
 
-### [OpenCut](https://github.com/OpenCut-app/OpenCut) — ⭐ 88.1K
+### [OpenCut](https://github.com/OpenCut-app/OpenCut) — ⭐ 88.9K
 
 Open-source CapCut alternative for web, desktop, and mobile. Currently being rewritten from the ground up with a Rust core.
 
@@ -12,7 +12,7 @@ Open-source CapCut alternative for web, desktop, and mobile. Currently being rew
 
 **Tags:** `editor` `rust` `video`
 
-### [OpenCut Classic](https://github.com/opencut-app/opencut-classic) — ⭐ 238
+### [OpenCut Classic](https://github.com/opencut-app/opencut-classic) — ⭐ 241
 
 The previous version of OpenCut — still what runs at opencut.app.
 
@@ -22,7 +22,7 @@ The previous version of OpenCut — still what runs at opencut.app.
 
 ## Programmatic & React Video
 
-### [Remotion](https://github.com/remotion-dev/remotion) — ⭐ 57.8K
+### [Remotion](https://github.com/remotion-dev/remotion) — ⭐ 58.5K
 
 Create videos programmatically using React and server-side rendering.
 
@@ -32,7 +32,7 @@ Create videos programmatically using React and server-side rendering.
 
 ## Desktop NLE Reference Implementations
 
-### [Shotcut](https://github.com/mltframework/shotcut) — ⭐ 15K
+### [Shotcut](https://github.com/mltframework/shotcut) — ⭐ 15.1K
 
 Free, open-source, cross-platform non-linear video editor built on the MLT framework.
 
@@ -56,7 +56,7 @@ KDE's non-linear video editor based on the MLT framework and KDE Frameworks.
 
 **Tags:** `nle` `kde` `mlt` `timeline`
 
-### [OpenShot](https://github.com/openshot/openshot-qt) — ⭐ 6.2K
+### [OpenShot](https://github.com/openshot/openshot-qt) — ⭐ 6.5K
 
 Free, cross-platform video editor with a friendly Qt interface.
 
@@ -66,7 +66,7 @@ Free, cross-platform video editor with a friendly Qt interface.
 
 ## Fast & Lossless Editing
 
-### [LosslessCut](https://github.com/mifi/lossless-cut) — ⭐ 43.3K
+### [LosslessCut](https://github.com/mifi/lossless-cut) — ⭐ 43.5K
 
 Cross-platform tool for lossless trimming, cutting, and merging of video and audio.
 
@@ -76,7 +76,7 @@ Cross-platform tool for lossless trimming, cutting, and merging of video and aud
 
 ## Streaming & Recording
 
-### [OBS Studio](https://github.com/obsproject/obs-studio) — ⭐ 75.7K
+### [OBS Studio](https://github.com/obsproject/obs-studio) — ⭐ 75.9K
 
 Free and open-source software for video recording and live streaming.
 

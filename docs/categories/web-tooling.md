@@ -12,7 +12,7 @@ Fast, flexible 2D WebGL/WebGPU renderer for the web.
 
 **Tags:** `webgl` `webgpu` `2d` `renderer`
 
-### [Three.js](https://github.com/mrdoob/three.js) — ⭐ 115K
+### [Three.js](https://github.com/mrdoob/three.js) — ⭐ 115.2K
 
 JavaScript 3D library for WebGL.
 
@@ -20,7 +20,7 @@ JavaScript 3D library for WebGL.
 
 **Tags:** `webgl` `3d` `renderer`
 
-### [Konva](https://github.com/konvajs/konva) — ⭐ 14.7K
+### [Konva](https://github.com/konvajs/konva) — ⭐ 14.8K
 
 2D canvas library for desktop and mobile applications, ideal for interactive editors.
 
@@ -46,7 +46,7 @@ Vector graphics scripting framework running on top of HTML5 Canvas.
 
 ## Infinite Canvas & Design Tools
 
-### [Excalidraw](https://github.com/excalidraw/excalidraw) — ⭐ 130.8K
+### [Excalidraw](https://github.com/excalidraw/excalidraw) — ⭐ 131.3K
 
 Virtual whiteboard for sketching hand-drawn-like diagrams.
 
@@ -54,7 +54,7 @@ Virtual whiteboard for sketching hand-drawn-like diagrams.
 
 **Tags:** `whiteboard` `collaboration` `canvas`
 
-### [tldraw](https://github.com/tldraw/tldraw) — ⭐ 50K
+### [tldraw](https://github.com/tldraw/tldraw) — ⭐ 50.2K
 
 Infinite-canvas editor SDK and the tldraw whiteboard app.
 
@@ -64,7 +64,7 @@ Infinite-canvas editor SDK and the tldraw whiteboard app.
 
 ## Motion & Animation
 
-### [Motion Canvas](https://github.com/motion-canvas/motion-canvas) — ⭐ 19K
+### [Motion Canvas](https://github.com/motion-canvas/motion-canvas) — ⭐ 19.1K
 
 Programmatic, typed, and interactive animation library for videos.
 
