@@ -17,8 +17,10 @@ This repository keeps a living, searchable index of awesome repos: organized by 
 | [Media & AV Libraries](docs/categories/media-av.md) | Codecs, demuxers, players, transcoding |
 | [Rust Ecosystem](docs/categories/rust-ecosystem.md) | Tauri, wgpu, egui, Symphonia, rav1e… |
 | [Web Editor Tooling](docs/categories/web-tooling.md) | Canvas, rendering, motion libraries |
-| [AI & Agent Tooling](docs/categories/ai-agents.md) | Agent frameworks, MCP, NVIDIA SkillSpector… |
+| [AI & Agent Tooling](docs/categories/ai-agents.md) | Agent frameworks, MCP, NVIDIA SkillSpector… + [Design Guidelines for Agentic AI](docs/categories/ai-agents.md#design-guidelines-for-agentic-ai) |
 | [Awesome Lists & Meta](docs/categories/awesome-lists.md) | Indexes of indexes |
+
+> ✨ Spotlight: [Design Guidelines for Agentic AI](docs/categories/ai-agents.md#design-guidelines-for-agentic-ai) — AI Design Guide directory (158 systems, 29 AI-aware) to choose UX + MCP/skills/`llms.txt`-ready design system.
 
 ## 🚀 Quick start
 

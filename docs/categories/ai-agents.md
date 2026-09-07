@@ -99,3 +99,13 @@ Test and evaluate LLM apps, prompts, and agents with red-teaming and CI integrat
 **Why it matters:** Ship AI features with quality gates — evaluate prompt quality and catch regressions before release.
 
 **Tags:** `eval` `testing` `llm` `red-team`
+
+## Design Guidelines for Agentic AI
+
+### [AI Design Guide — Design Systems Directory](https://www.aidesign.guide/design-systems/)
+
+Directory of 158 design systems, component libraries, and UI toolkits — including 29 AI-aware systems (19 with product UX guidelines, 12 with agent delivery via MCP, skills, `llms.txt`) with filters for tech stack and features.
+
+**Why it matters:** The tool to choose the design guideline for agentic AI — compare UX patterns for AI features plus agent-consumable systems (MCP/skills/`llms.txt`) to inform OpenCut Alt's design language and AI-assisted UI generation.
+
+**Tags:** `design-systems` `guidelines` `agentic-ai` `mcp` `ux`
