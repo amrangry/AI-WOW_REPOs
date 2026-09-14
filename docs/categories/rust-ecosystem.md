@@ -4,7 +4,7 @@ The backbone for a fast, safe, cross-platform core — mirroring OpenCut's move 
 
 ## Core Language & Tooling
 
-### [rust](https://github.com/rust-lang/rust) — ⭐ 118K
+### [rust](https://github.com/rust-lang/rust) — ⭐ 118.8K
 
 The Rust programming language and standard library.
 
@@ -30,7 +30,7 @@ Asynchronous runtime for Rust.
 
 ## Cross-Platform Desktop Shell
 
-### [Tauri](https://github.com/tauri-apps/tauri) — ⭐ 110.9K
+### [Tauri](https://github.com/tauri-apps/tauri) — ⭐ 111.1K
 
 Framework for building tiny, fast, secure cross-platform desktop apps with a web frontend and a Rust backend.
 
@@ -56,7 +56,7 @@ Immediate-mode GUI library for Rust.
 
 **Tags:** `gui` `immediate-mode` `egui`
 
-### [vulkano](https://github.com/vulkano-rs/vulkano) — ⭐ 5.1K
+### [vulkano](https://github.com/vulkano-rs/vulkano) — ⭐ 5.2K
 
 Safe and rich Rust wrapper around the Vulkan graphics API.
 
@@ -64,7 +64,7 @@ Safe and rich Rust wrapper around the Vulkan graphics API.
 
 **Tags:** `graphics` `vulkan` `gpu`
 
-### [bevy](https://github.com/bevyengine/bevy) — ⭐ 48.1K
+### [bevy](https://github.com/bevyengine/bevy) — ⭐ 48.2K
 
 Refreshingly simple data-driven game engine built in Rust.
 
