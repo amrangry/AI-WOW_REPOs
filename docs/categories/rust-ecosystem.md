@@ -4,7 +4,7 @@ The backbone for a fast, safe, cross-platform core — mirroring OpenCut's move 
 
 ## Core Language & Tooling
 
-### [rust](https://github.com/rust-lang/rust) — ⭐ 118.8K
+### [rust](https://github.com/rust-lang/rust) — ⭐ 119K
 
 The Rust programming language and standard library.
 
@@ -20,7 +20,7 @@ Serialization framework for Rust.
 
 **Tags:** `serialization` `derive`
 
-### [tokio](https://github.com/tokio-rs/tokio) — ⭐ 33.1K
+### [tokio](https://github.com/tokio-rs/tokio) — ⭐ 33.2K
 
 Asynchronous runtime for Rust.
 
@@ -30,7 +30,7 @@ Asynchronous runtime for Rust.
 
 ## Cross-Platform Desktop Shell
 
-### [Tauri](https://github.com/tauri-apps/tauri) — ⭐ 111.1K
+### [Tauri](https://github.com/tauri-apps/tauri) — ⭐ 111.2K
 
 Framework for building tiny, fast, secure cross-platform desktop apps with a web frontend and a Rust backend.
 
@@ -40,7 +40,7 @@ Framework for building tiny, fast, secure cross-platform desktop apps with a web
 
 ## Graphics & GPU
 
-### [wgpu](https://github.com/gfx-rs/wgpu) — ⭐ 18K
+### [wgpu](https://github.com/gfx-rs/wgpu) — ⭐ 18.1K
 
 Cross-platform, safe, native graphics library (WebGPU implementation in Rust).
 
@@ -48,7 +48,7 @@ Cross-platform, safe, native graphics library (WebGPU implementation in Rust).
 
 **Tags:** `graphics` `webgpu` `gpu`
 
-### [egui](https://github.com/emilk/egui) — ⭐ 30.5K
+### [egui](https://github.com/emilk/egui) — ⭐ 30.6K
 
 Immediate-mode GUI library for Rust.
 
@@ -64,7 +64,7 @@ Safe and rich Rust wrapper around the Vulkan graphics API.
 
 **Tags:** `graphics` `vulkan` `gpu`
 
-### [bevy](https://github.com/bevyengine/bevy) — ⭐ 48.2K
+### [bevy](https://github.com/bevyengine/bevy) — ⭐ 48.3K
 
 Refreshingly simple data-driven game engine built in Rust.
 
@@ -74,7 +74,7 @@ Refreshingly simple data-driven game engine built in Rust.
 
 ## Media & Codecs (Rust)
 
-### [rav1e](https://github.com/xiph/rav1e) — ⭐ 4.1K
+### [rav1e](https://github.com/xiph/rav1e) — ⭐ 4.2K
 
 Fast and safe AV1 encoder written in pure Rust.
 
@@ -90,7 +90,7 @@ Pure Rust audio decoding and media demuxing library (AAC, FLAC, MP4, MKV, OGG, W
 
 **Tags:** `audio` `demuxer` `codecs`
 
-### [rust-av](https://github.com/rust-av/rust-av) — ⭐ 913
+### [rust-av](https://github.com/rust-av/rust-av) — ⭐ 914
 
 Pure Rust multimedia framework with demuxing, decoding, encoding, and filtering.
 

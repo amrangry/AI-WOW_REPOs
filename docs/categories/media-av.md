@@ -4,7 +4,7 @@ Codecs, demuxers, players, and transcoding stacks. This is the multimedia plumbi
 
 ## Core Processing
 
-### [FFmpeg](https://github.com/FFmpeg/FFmpeg) — ⭐ 64.2K
+### [FFmpeg](https://github.com/FFmpeg/FFmpeg) — ⭐ 64.4K
 
 The de-facto standard for decoding, encoding, muxing, and filtering audio and video.
 
@@ -30,7 +30,7 @@ FFmpeg compiled to WebAssembly, running entirely in the browser.
 
 ## Players & Playback
 
-### [VLC](https://github.com/videolan/vlc) — ⭐ 19.6K
+### [VLC](https://github.com/videolan/vlc) — ⭐ 19.7K
 
 The legendary cross-platform media player and streaming engine (libVLC).
 
@@ -98,7 +98,7 @@ Convenient unified display of the most relevant technical and tag data for video
 
 ## Transcoding & Conversion
 
-### [HandBrake](https://github.com/HandBrake/HandBrake) — ⭐ 24.4K
+### [HandBrake](https://github.com/HandBrake/HandBrake) — ⭐ 24.5K
 
 Tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
