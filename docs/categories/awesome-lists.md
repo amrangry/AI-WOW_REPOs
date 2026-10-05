@@ -4,7 +4,7 @@ The best indexes of indexes. When the warehouse needs to hunt for more repos, th
 
 ## General Indexes
 
-### [awesome](https://github.com/sindresorhus/awesome) — ⭐ 511.7K
+### [awesome](https://github.com/sindresorhus/awesome) — ⭐ 514.9K
 
 The legendary curated list of awesome lists — the root index of the whole "awesome" movement.
 
@@ -12,7 +12,7 @@ The legendary curated list of awesome lists — the root index of the whole "awe
 
 **Tags:** `awesome` `index` `meta`
 
-### [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — ⭐ 322.3K
+### [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — ⭐ 324K
 
 Free Software network services and web applications you can host yourself.
 
@@ -22,7 +22,7 @@ Free Software network services and web applications you can host yourself.
 
 ## Language & Domain Specific
 
-### [awesome-rust](https://github.com/rust-unofficial/awesome-rust) — ⭐ 59.6K
+### [awesome-rust](https://github.com/rust-unofficial/awesome-rust) — ⭐ 59.7K
 
 A curated list of Rust code and resources.
 
@@ -40,7 +40,7 @@ Curated list of video streaming tools, frameworks, libraries, and learning resou
 
 ## AI & Agents
 
-### [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — ⭐ 95.6K
+### [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — ⭐ 95.8K
 
 A collection of MCP servers.
 
@@ -48,7 +48,7 @@ A collection of MCP servers.
 
 **Tags:** `mcp` `servers` `index`
 
-### [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) — ⭐ 30.2K
+### [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) — ⭐ 30.3K
 
 A list of AI autonomous agents.
 
