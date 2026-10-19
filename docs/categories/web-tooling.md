@@ -4,7 +4,7 @@ Canvas, rendering, and motion libraries for building browser-based editors — t
 
 ## Canvas & Rendering
 
-### [PixiJS](https://github.com/pixijs/pixijs) — ⭐ 48.3K
+### [PixiJS](https://github.com/pixijs/pixijs) — ⭐ 48.4K
 
 Fast, flexible 2D WebGL/WebGPU renderer for the web.
 
@@ -12,7 +12,7 @@ Fast, flexible 2D WebGL/WebGPU renderer for the web.
 
 **Tags:** `webgl` `webgpu` `2d` `renderer`
 
-### [Three.js](https://github.com/mrdoob/three.js) — ⭐ 116.3K
+### [Three.js](https://github.com/mrdoob/three.js) — ⭐ 116.6K
 
 JavaScript 3D library for WebGL.
 
@@ -46,7 +46,7 @@ Vector graphics scripting framework running on top of HTML5 Canvas.
 
 ## Infinite Canvas & Design Tools
 
-### [Excalidraw](https://github.com/excalidraw/excalidraw) — ⭐ 133.7K
+### [Excalidraw](https://github.com/excalidraw/excalidraw) — ⭐ 134.1K
 
 Virtual whiteboard for sketching hand-drawn-like diagrams.
 
@@ -54,7 +54,7 @@ Virtual whiteboard for sketching hand-drawn-like diagrams.
 
 **Tags:** `whiteboard` `collaboration` `canvas`
 
-### [tldraw](https://github.com/tldraw/tldraw) — ⭐ 50.9K
+### [tldraw](https://github.com/tldraw/tldraw) — ⭐ 51K
 
 Infinite-canvas editor SDK and the tldraw whiteboard app.
 
@@ -64,7 +64,7 @@ Infinite-canvas editor SDK and the tldraw whiteboard app.
 
 ## Motion & Animation
 
-### [Motion Canvas](https://github.com/motion-canvas/motion-canvas) — ⭐ 19.3K
+### [Motion Canvas](https://github.com/motion-canvas/motion-canvas) — ⭐ 19.4K
 
 Programmatic, typed, and interactive animation library for videos.
 
@@ -74,7 +74,7 @@ Programmatic, typed, and interactive animation library for videos.
 
 ## Image & Media Processing
 
-### [Sharp](https://github.com/lovell/sharp) — ⭐ 32.7K
+### [Sharp](https://github.com/lovell/sharp) — ⭐ 32.8K
 
 High-performance Node.js image processing (libvips).
 

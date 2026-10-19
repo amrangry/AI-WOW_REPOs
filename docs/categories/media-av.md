@@ -4,7 +4,7 @@ Codecs, demuxers, players, and transcoding stacks. This is the multimedia plumbi
 
 ## Core Processing
 
-### [FFmpeg](https://github.com/FFmpeg/FFmpeg) — ⭐ 65K
+### [FFmpeg](https://github.com/FFmpeg/FFmpeg) — ⭐ 65.4K
 
 The de-facto standard for decoding, encoding, muxing, and filtering audio and video.
 
@@ -30,7 +30,7 @@ FFmpeg compiled to WebAssembly, running entirely in the browser.
 
 ## Players & Playback
 
-### [VLC](https://github.com/videolan/vlc) — ⭐ 19.9K
+### [VLC](https://github.com/videolan/vlc) — ⭐ 20.1K
 
 The legendary cross-platform media player and streaming engine (libVLC).
 
@@ -38,7 +38,7 @@ The legendary cross-platform media player and streaming engine (libVLC).
 
 **Tags:** `player` `libvlc` `c++`
 
-### [mpv](https://github.com/mpv-player/mpv) — ⭐ 37.3K
+### [mpv](https://github.com/mpv-player/mpv) — ⭐ 37.5K
 
 Minimalist, powerful, scriptable media player built on FFmpeg and libplacebo.
 
@@ -46,7 +46,7 @@ Minimalist, powerful, scriptable media player built on FFmpeg and libplacebo.
 
 **Tags:** `player` `ffmpeg` `opengl` `libplacebo`
 
-### [video.js](https://github.com/videojs/video.js) — ⭐ 39.9K
+### [video.js](https://github.com/videojs/video.js) — ⭐ 40K
 
 Open-source HTML5 video player framework.
 
@@ -62,7 +62,7 @@ JavaScript HLS (HTTP Live Streaming) player.
 
 **Tags:** `hls` `player` `streaming`
 
-### [Shaka Player](https://github.com/shaka-project/shaka-player) — ⭐ 8.2K
+### [Shaka Player](https://github.com/shaka-project/shaka-player) — ⭐ 8.3K
 
 JavaScript media player library supporting DASH and HLS.
 
@@ -98,7 +98,7 @@ Convenient unified display of the most relevant technical and tag data for video
 
 ## Transcoding & Conversion
 
-### [HandBrake](https://github.com/HandBrake/HandBrake) — ⭐ 24.6K
+### [HandBrake](https://github.com/HandBrake/HandBrake) — ⭐ 24.7K
 
 Tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
