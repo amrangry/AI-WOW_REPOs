@@ -4,7 +4,7 @@ Codecs, demuxers, players, and transcoding stacks. This is the multimedia plumbi
 
 ## Core Processing
 
-### [FFmpeg](https://github.com/FFmpeg/FFmpeg) — ⭐ 65.4K
+### [FFmpeg](https://github.com/FFmpeg/FFmpeg) — ⭐ 65.8K
 
 The de-facto standard for decoding, encoding, muxing, and filtering audio and video.
 
@@ -30,7 +30,7 @@ FFmpeg compiled to WebAssembly, running entirely in the browser.
 
 ## Players & Playback
 
-### [VLC](https://github.com/videolan/vlc) — ⭐ 20.1K
+### [VLC](https://github.com/videolan/vlc) — ⭐ 20.2K
 
 The legendary cross-platform media player and streaming engine (libVLC).
 
@@ -38,7 +38,7 @@ The legendary cross-platform media player and streaming engine (libVLC).
 
 **Tags:** `player` `libvlc` `c++`
 
-### [mpv](https://github.com/mpv-player/mpv) — ⭐ 37.5K
+### [mpv](https://github.com/mpv-player/mpv) — ⭐ 37.6K
 
 Minimalist, powerful, scriptable media player built on FFmpeg and libplacebo.
 
@@ -80,7 +80,7 @@ Modern media player components for the web (React, Svelte, Vue, and more).
 
 ## Frameworks & Analysis
 
-### [GStreamer](https://github.com/gstreamer/gstreamer) — ⭐ 3.3K
+### [GStreamer](https://github.com/gstreamer/gstreamer) — ⭐ 3.4K
 
 Open-source multimedia framework for building pipelines of media handling.
 
@@ -98,7 +98,7 @@ Convenient unified display of the most relevant technical and tag data for video
 
 ## Transcoding & Conversion
 
-### [HandBrake](https://github.com/HandBrake/HandBrake) — ⭐ 24.7K
+### [HandBrake](https://github.com/HandBrake/HandBrake) — ⭐ 24.8K
 
 Tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 

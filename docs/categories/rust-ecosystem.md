@@ -4,7 +4,7 @@ The backbone for a fast, safe, cross-platform core — mirroring OpenCut's move 
 
 ## Core Language & Tooling
 
-### [rust](https://github.com/rust-lang/rust) — ⭐ 120.6K
+### [rust](https://github.com/rust-lang/rust) — ⭐ 120.8K
 
 The Rust programming language and standard library.
 
@@ -30,7 +30,7 @@ Asynchronous runtime for Rust.
 
 ## Cross-Platform Desktop Shell
 
-### [Tauri](https://github.com/tauri-apps/tauri) — ⭐ 112K
+### [Tauri](https://github.com/tauri-apps/tauri) — ⭐ 112.2K
 
 Framework for building tiny, fast, secure cross-platform desktop apps with a web frontend and a Rust backend.
 
@@ -40,7 +40,7 @@ Framework for building tiny, fast, secure cross-platform desktop apps with a web
 
 ## Graphics & GPU
 
-### [wgpu](https://github.com/gfx-rs/wgpu) — ⭐ 18.3K
+### [wgpu](https://github.com/gfx-rs/wgpu) — ⭐ 18.4K
 
 Cross-platform, safe, native graphics library (WebGPU implementation in Rust).
 
@@ -48,7 +48,7 @@ Cross-platform, safe, native graphics library (WebGPU implementation in Rust).
 
 **Tags:** `graphics` `webgpu` `gpu`
 
-### [egui](https://github.com/emilk/egui) — ⭐ 31.6K
+### [egui](https://github.com/emilk/egui) — ⭐ 31.8K
 
 Immediate-mode GUI library for Rust.
 
@@ -64,7 +64,7 @@ Safe and rich Rust wrapper around the Vulkan graphics API.
 
 **Tags:** `graphics` `vulkan` `gpu`
 
-### [bevy](https://github.com/bevyengine/bevy) — ⭐ 49.1K
+### [bevy](https://github.com/bevyengine/bevy) — ⭐ 49.3K
 
 Refreshingly simple data-driven game engine built in Rust.
 
@@ -82,7 +82,7 @@ Fast and safe AV1 encoder written in pure Rust.
 
 **Tags:** `av1` `encoder` `video`
 
-### [Symphonia](https://github.com/pdeljanov/Symphonia) — ⭐ 3.4K
+### [Symphonia](https://github.com/pdeljanov/Symphonia) — ⭐ 3.5K
 
 Pure Rust audio decoding and media demuxing library (AAC, FLAC, MP4, MKV, OGG, WAV, WebM, and more).
 
