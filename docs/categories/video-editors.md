@@ -4,7 +4,7 @@ Non-linear editors, timeline engines, and editing tools — the direct reference
 
 ## CapCut Alternatives & Full Editors
 
-### [OpenCut](https://github.com/OpenCut-app/OpenCut) — ⭐ 96.2K
+### [OpenCut](https://github.com/OpenCut-app/OpenCut) — ⭐ 97.1K
 
 Open-source CapCut alternative for web, desktop, and mobile. Currently being rewritten from the ground up with a Rust core.
 
@@ -12,7 +12,7 @@ Open-source CapCut alternative for web, desktop, and mobile. Currently being rew
 
 **Tags:** `editor` `rust` `video`
 
-### [OpenCut Classic](https://github.com/opencut-app/opencut-classic) — ⭐ 287
+### [OpenCut Classic](https://github.com/opencut-app/opencut-classic) — ⭐ 293
 
 The previous version of OpenCut — still what runs at opencut.app.
 
@@ -22,7 +22,7 @@ The previous version of OpenCut — still what runs at opencut.app.
 
 ## Programmatic & React Video
 
-### [Remotion](https://github.com/remotion-dev/remotion) — ⭐ 67.6K
+### [Remotion](https://github.com/remotion-dev/remotion) — ⭐ 69.9K
 
 Create videos programmatically using React and server-side rendering.
 
@@ -32,7 +32,7 @@ Create videos programmatically using React and server-side rendering.
 
 ## Desktop NLE Reference Implementations
 
-### [Shotcut](https://github.com/mltframework/shotcut) — ⭐ 15.5K
+### [Shotcut](https://github.com/mltframework/shotcut) — ⭐ 15.6K
 
 Free, open-source, cross-platform non-linear video editor built on the MLT framework.
 
@@ -48,7 +48,7 @@ Non-linear video editor for Linux with a modern, Python-based UI.
 
 **Tags:** `nle` `python` `gtk`
 
-### [Kdenlive](https://github.com/KDE/kdenlive) — ⭐ 5.9K
+### [Kdenlive](https://github.com/KDE/kdenlive) — ⭐ 6K
 
 KDE's non-linear video editor based on the MLT framework and KDE Frameworks.
 
@@ -66,7 +66,7 @@ Free, cross-platform video editor with a friendly Qt interface.
 
 ## Fast & Lossless Editing
 
-### [LosslessCut](https://github.com/mifi/lossless-cut) — ⭐ 45.2K
+### [LosslessCut](https://github.com/mifi/lossless-cut) — ⭐ 45.6K
 
 Cross-platform tool for lossless trimming, cutting, and merging of video and audio.
 
@@ -76,7 +76,7 @@ Cross-platform tool for lossless trimming, cutting, and merging of video and aud
 
 ## Streaming & Recording
 
-### [OBS Studio](https://github.com/obsproject/obs-studio) — ⭐ 78.2K
+### [OBS Studio](https://github.com/obsproject/obs-studio) — ⭐ 78.8K
 
 Free and open-source software for video recording and live streaming.
 

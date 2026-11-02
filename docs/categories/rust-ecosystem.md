@@ -4,7 +4,7 @@ The backbone for a fast, safe, cross-platform core — mirroring OpenCut's move 
 
 ## Core Language & Tooling
 
-### [rust](https://github.com/rust-lang/rust) — ⭐ 120.8K
+### [rust](https://github.com/rust-lang/rust) — ⭐ 121K
 
 The Rust programming language and standard library.
 
@@ -20,7 +20,7 @@ Serialization framework for Rust.
 
 **Tags:** `serialization` `derive`
 
-### [tokio](https://github.com/tokio-rs/tokio) — ⭐ 33.5K
+### [tokio](https://github.com/tokio-rs/tokio) — ⭐ 33.6K
 
 Asynchronous runtime for Rust.
 
@@ -30,7 +30,7 @@ Asynchronous runtime for Rust.
 
 ## Cross-Platform Desktop Shell
 
-### [Tauri](https://github.com/tauri-apps/tauri) — ⭐ 112.2K
+### [Tauri](https://github.com/tauri-apps/tauri) — ⭐ 112.4K
 
 Framework for building tiny, fast, secure cross-platform desktop apps with a web frontend and a Rust backend.
 
@@ -48,7 +48,7 @@ Cross-platform, safe, native graphics library (WebGPU implementation in Rust).
 
 **Tags:** `graphics` `webgpu` `gpu`
 
-### [egui](https://github.com/emilk/egui) — ⭐ 31.8K
+### [egui](https://github.com/emilk/egui) — ⭐ 31.9K
 
 Immediate-mode GUI library for Rust.
 
@@ -64,7 +64,7 @@ Safe and rich Rust wrapper around the Vulkan graphics API.
 
 **Tags:** `graphics` `vulkan` `gpu`
 
-### [bevy](https://github.com/bevyengine/bevy) — ⭐ 49.3K
+### [bevy](https://github.com/bevyengine/bevy) — ⭐ 49.5K
 
 Refreshingly simple data-driven game engine built in Rust.
 
@@ -90,7 +90,7 @@ Pure Rust audio decoding and media demuxing library (AAC, FLAC, MP4, MKV, OGG, W
 
 **Tags:** `audio` `demuxer` `codecs`
 
-### [rust-av](https://github.com/rust-av/rust-av) — ⭐ 917
+### [rust-av](https://github.com/rust-av/rust-av) — ⭐ 919
 
 Pure Rust multimedia framework with demuxing, decoding, encoding, and filtering.
 
