@@ -4,7 +4,7 @@ Codecs, demuxers, players, and transcoding stacks. This is the multimedia plumbi
 
 ## Core Processing
 
-### [FFmpeg](https://github.com/FFmpeg/FFmpeg) — ⭐ 66.3K
+### [FFmpeg](https://github.com/FFmpeg/FFmpeg) — ⭐ 66.8K
 
 The de-facto standard for decoding, encoding, muxing, and filtering audio and video.
 
@@ -20,7 +20,7 @@ FFmpeg static builds for Windows (and helpers for other platforms).
 
 **Tags:** `ffmpeg` `builds` `windows`
 
-### [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) — ⭐ 17.9K
+### [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) — ⭐ 18K
 
 FFmpeg compiled to WebAssembly, running entirely in the browser.
 
@@ -30,7 +30,7 @@ FFmpeg compiled to WebAssembly, running entirely in the browser.
 
 ## Players & Playback
 
-### [VLC](https://github.com/videolan/vlc) — ⭐ 20.3K
+### [VLC](https://github.com/videolan/vlc) — ⭐ 20.4K
 
 The legendary cross-platform media player and streaming engine (libVLC).
 
@@ -38,7 +38,7 @@ The legendary cross-platform media player and streaming engine (libVLC).
 
 **Tags:** `player` `libvlc` `c++`
 
-### [mpv](https://github.com/mpv-player/mpv) — ⭐ 37.7K
+### [mpv](https://github.com/mpv-player/mpv) — ⭐ 38K
 
 Minimalist, powerful, scriptable media player built on FFmpeg and libplacebo.
 

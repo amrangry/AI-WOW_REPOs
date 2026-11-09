@@ -4,7 +4,7 @@ The backbone for a fast, safe, cross-platform core — mirroring OpenCut's move 
 
 ## Core Language & Tooling
 
-### [rust](https://github.com/rust-lang/rust) — ⭐ 121K
+### [rust](https://github.com/rust-lang/rust) — ⭐ 121.7K
 
 The Rust programming language and standard library.
 
@@ -12,7 +12,7 @@ The Rust programming language and standard library.
 
 **Tags:** `language` `compiler`
 
-### [serde](https://github.com/serde-rs/serde) — ⭐ 10.9K
+### [serde](https://github.com/serde-rs/serde) — ⭐ 11.1K
 
 Serialization framework for Rust.
 
@@ -20,7 +20,7 @@ Serialization framework for Rust.
 
 **Tags:** `serialization` `derive`
 
-### [tokio](https://github.com/tokio-rs/tokio) — ⭐ 33.6K
+### [tokio](https://github.com/tokio-rs/tokio) — ⭐ 33.7K
 
 Asynchronous runtime for Rust.
 
@@ -30,7 +30,7 @@ Asynchronous runtime for Rust.
 
 ## Cross-Platform Desktop Shell
 
-### [Tauri](https://github.com/tauri-apps/tauri) — ⭐ 112.4K
+### [Tauri](https://github.com/tauri-apps/tauri) — ⭐ 112.6K
 
 Framework for building tiny, fast, secure cross-platform desktop apps with a web frontend and a Rust backend.
 
@@ -40,7 +40,7 @@ Framework for building tiny, fast, secure cross-platform desktop apps with a web
 
 ## Graphics & GPU
 
-### [wgpu](https://github.com/gfx-rs/wgpu) — ⭐ 18.4K
+### [wgpu](https://github.com/gfx-rs/wgpu) — ⭐ 18.5K
 
 Cross-platform, safe, native graphics library (WebGPU implementation in Rust).
 
@@ -48,7 +48,7 @@ Cross-platform, safe, native graphics library (WebGPU implementation in Rust).
 
 **Tags:** `graphics` `webgpu` `gpu`
 
-### [egui](https://github.com/emilk/egui) — ⭐ 31.9K
+### [egui](https://github.com/emilk/egui) — ⭐ 32.2K
 
 Immediate-mode GUI library for Rust.
 
@@ -64,7 +64,7 @@ Safe and rich Rust wrapper around the Vulkan graphics API.
 
 **Tags:** `graphics` `vulkan` `gpu`
 
-### [bevy](https://github.com/bevyengine/bevy) — ⭐ 49.5K
+### [bevy](https://github.com/bevyengine/bevy) — ⭐ 49.6K
 
 Refreshingly simple data-driven game engine built in Rust.
 
